@@ -1,1 +1,2 @@
-Welcome in git tutorials with Praful
+Welcome in git tutorials
+we are learning git.
